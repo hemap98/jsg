@@ -1,0 +1,9 @@
+[
+	{"Course":"Thali","Add_on":"South/North","Course_Cost":"100/110"},
+	{"Course":"Biryani","Add_on":"veg/chicken/mutton","Course_Cost":"150/800/900"},
+	{"Course":"Noodles","Add_on":"veg/Non-veg","Course_Cost":"100/200"},
+	{"Course":"Breakfast","Add_on":"Dosa/Idly/Vada","Course_Cost":"80/20/10"},
+	{"Course":"Breads","Add_on":"Romali/Kulcha/Roti","Course_Cost":"50/60/30"},
+	{"Course":"Beverages","Add_on":"Soft Drink/Smoothie/Milkshake","Course_Cost":"250/150/300"},
+	{"Course":"Snacks","Add_on":"Chips/Fries/Nuggets","Course_Cost":"150/260/100"},
+]
